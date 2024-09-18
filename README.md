@@ -2,7 +2,13 @@
 
 # Towards and effictive management of Agri-Food supply chain based on Blockchain
 
-This project investigates how the Hyperledger Fabric blockchain platform can be applied to ameliorate the agrifood supply chain.
+# Optimization of Agrifood Supply Chains using Hyperledger Fabric Blockchain Technology
+by Mohamed El Hajji1,2, Youssef Es-saady1,3, Mustapha Ait Addi3,  Jilali Antari4
+1IRF-SIC Laboratory, Ibnou Zohr University, Agadir, Morocco.
+2Regional Center for Education and Training Professions - Souss Massa, Morocco. 
+3Polydisciplinary Faculty of Taroudant, Ibnou Zohr University,  Morocco.
+4ISIMA Laboratory, Faculty of Taroudant, Ibnou Zohr University,  Morocco.
+m.elhajji@crmefsm.ac.ma, y.essaady@uiz.ac.ma, mustapha.aitaddi.00@gmail.com, j.antari@uiz.ac.ma
 
 
 ## Requirements
