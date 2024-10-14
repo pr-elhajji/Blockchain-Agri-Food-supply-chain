@@ -3,8 +3,6 @@
 
 # ⚡️Optimization of Agrifood Supply Chains using Hyperledger Fabric Blockchain Technologyw⚡️
 
-[[Paper]](https://arxiv.org/abs/2410.05954) [[Project Page ✨]](https://pyramid-flow.github.io) [[Model 🚀]](https://huggingface.co/rain1011/pyramid-flow-sd3) [[demo 🤗](https://huggingface.co/spaces/Pyramid-Flow/pyramid-flow)]
-
 [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169924008949)
 
 </div>
