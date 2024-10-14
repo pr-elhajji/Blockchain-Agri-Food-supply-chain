@@ -1,7 +1,7 @@
  
 <div align="center">
 
-# ⚡️Optimization of Agrifood Supply Chains using Hyperledger Fabric Blockchain Technologyw⚡️
+# ⚡️Optimization of Agrifood Supply Chains using Hyperledger Fabric Blockchain Technology⚡️
 
 [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169924008949)
 
