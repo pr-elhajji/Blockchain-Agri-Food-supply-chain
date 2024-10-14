@@ -97,6 +97,4 @@ Consider giving this repository a star and cite Pyramid Flow in your publication
   publisher={Elsevier}
 }
 ```
-## Authors
-- [@Mustapha AIT ADDI](https://github.com/artiumrexbellator) • [@Mohamed EL HAJJI](https://github.com/pr-elhajji) • [@Youssef ES-SAADY](https://github.com/essaady)
 
