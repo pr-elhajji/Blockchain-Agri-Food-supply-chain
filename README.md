@@ -1,5 +1,14 @@
  
-# Optimization of Agrifood Supply Chains using Hyperledger Fabric Blockchain Technology
+<div align="center">
+
+# ⚡️Optimization of Agrifood Supply Chains using Hyperledger Fabric Blockchain Technologyw⚡️
+
+[[Paper]](https://arxiv.org/abs/2410.05954) [[Project Page ✨]](https://pyramid-flow.github.io) [[Model 🚀]](https://huggingface.co/rain1011/pyramid-flow-sd3) [[demo 🤗](https://huggingface.co/spaces/Pyramid-Flow/pyramid-flow)]
+
+[[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169924008949)
+
+</div>
+
 
 ## by Mohamed El Hajji1,2, Youssef Es-saady1,3, Mustapha Ait Addi3,  Jilali Antari4
 1IRF-SIC Laboratory, Ibnou Zohr University, Agadir, Morocco.
@@ -8,6 +17,8 @@
 4ISIMA Laboratory, Faculty of Taroudant, Ibnou Zohr University,  Morocco.
 m.elhajji@crmefsm.ac.ma, y.essaady@uiz.ac.ma, mustapha.aitaddi.00@gmail.com, j.antari@uiz.ac.ma
 
+# Abstruct 
+Blockchain technology shows significant promise for addressing challenges within the agri-food supply chain. However, the effective application of blockchain platforms in this context is still an area of research. This study proposes a blockchain-based system that uses Hyperledger Fabric to manage agri-food supply chains based builder design patterns. The main focus is on preserving relationships, authorizations, and accurate traceability of food products throughout the supply chain. The system takes into account the various stakeholders involved in the food supply chain to ensure coordination and efficiency. It integrates multiple security mechanisms to enhance security and enforce adherence to chaincode, preventing unauthorised access to critical data or operations. Additionally, ownership and validity checks are incorporated for agreement issuance and asset generation, providing credentials for the legitimacy of linked agreements and organisational authorisation. The proposed system improves the security and integrity of the supply chain by using one-time agreements, which mitigates the risk of replay attacks or malicious activity. A web platform has been proposed to give users real-time visibility of a package’s movement through the supply chain. This enables access to a detailed chronology of the product’s movement and delivery steps by scanning the package’s QR code. The proposed system is evaluated for performance using the Caliper tool to measure network throughput and transaction latency, which demonstrates the feasibility and efficiency of Hyperledger Fabric in optimising agri-food supply chains.
 
 ## Requirements
 For mac os,i recommend using homebrew to install prereqs.
@@ -79,9 +90,21 @@ docker-compose up
 additional images will be installed
 then navigate to http://localhost:8080/ and connect with
 exploreradmin/exploreradminpw
-## Authors
 
-- [@Mustapha AIT ADDI](https://github.com/artiumrexbellator)
-- [@Mohamed EL HAJJI](https://github.com/pr-elhajji)
-- [@Youssef ES-SAADY](https://github.com/essaady)
+
+# Citation
+Consider giving this repository a star and cite Pyramid Flow in your publications if it helps your research.
+```
+@article{el2024optimization,
+  title={Optimization of agrifood supply chains using Hyperledger Fabric blockchain technology},
+  author={El Hajji, Mohamed and Es-saady, Youssef and Addi, Mustapha Ait and Antari, Jilali},
+  journal={Computers and Electronics in Agriculture},
+  volume={227},
+  pages={109503},
+  year={2024},
+  publisher={Elsevier}
+}
+```
+## Authors
+- [@Mustapha AIT ADDI](https://github.com/artiumrexbellator) • [@Mohamed EL HAJJI](https://github.com/pr-elhajji) • [@Youssef ES-SAADY](https://github.com/essaady)
 
