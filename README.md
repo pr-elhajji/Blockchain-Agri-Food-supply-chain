@@ -12,9 +12,10 @@
 Blockchain technology shows significant promise for addressing challenges within the agri-food supply chain. However, the effective application of blockchain platforms in this context is still an area of research. This study proposes a blockchain-based system that uses Hyperledger Fabric to manage agri-food supply chains based builder design patterns. The main focus is on preserving relationships, authorizations, and accurate traceability of food products throughout the supply chain. The system takes into account the various stakeholders involved in the food supply chain to ensure coordination and efficiency. It integrates multiple security mechanisms to enhance security and enforce adherence to chaincode, preventing unauthorised access to critical data or operations. Additionally, ownership and validity checks are incorporated for agreement issuance and asset generation, providing credentials for the legitimacy of linked agreements and organisational authorisation. The proposed system improves the security and integrity of the supply chain by using one-time agreements, which mitigates the risk of replay attacks or malicious activity. A web platform has been proposed to give users real-time visibility of a package’s movement through the supply chain. This enables access to a detailed chronology of the product’s movement and delivery steps by scanning the package’s QR code. The proposed system is evaluated for performance using the Caliper tool to measure network throughput and transaction latency, which demonstrates the feasibility and efficiency of Hyperledger Fabric in optimising agri-food supply chains.
 
 ## Requirements
-For mac os,i recommend using homebrew to install prereqs.
+We recommend using **Homebrew** to install the necessary prerequisites for the application. Homebrew simplifies the installation process by managing dependencies for you.
+```
 Install git,cURL,go,JQ,yarn,node,npm and docker.
-
+```
 ## Installation
 
 In order to install the required binaries and docker images for the project run the bootstrap.sh file in its current directory
