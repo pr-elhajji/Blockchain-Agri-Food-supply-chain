@@ -85,7 +85,7 @@ exploreradmin/exploreradminpw
 
 
 # Citation
-Consider giving this repository a star and cite Pyramid Flow in your publications if it helps your research.
+Consider giving this repository a star and cite our paper in your publications if it helps your research.
 ```
 @article{el2024optimization,
   title={Optimization of agrifood supply chains using Hyperledger Fabric blockchain technology},
